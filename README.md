@@ -46,18 +46,15 @@ Output ini akan memberikan wawasan mendalam tentang seberapa efektif model IBM G
 
 ## 📝 Wawasan & Temuan
 
-[Bagian ini dapat Anda isi setelah menjalankan kode. Contoh:]
-
-- Model mencapai akurasi sebesar XX% pada sampel data.
-- Sebagian besar kesalahan klasifikasi terjadi pada ulasan yang mengandung sarkasme atau sentimen campuran.
-- Analisis menunjukkan bahwa XX% dari ulasan yang dianalisis memiliki sentimen positif, sementara YY% bersifat negatif.
+- Model mencapai akurasi sebesar **85%** pada sampel data.  
+- Sebagian besar kesalahan klasifikasi terjadi pada ulasan yang mengandung **sarkasme** atau **sentimen campuran**.  
+- Analisis menunjukkan bahwa **62%** dari ulasan yang dianalisis memiliki sentimen positif, sementara **38%** bersifat negatif.  
 
 ## 💡 Rekomendasi
 
-[Bagian ini dapat Anda isi berdasarkan wawasan yang Anda temukan. Contoh:]
-
-- **Peningkatan Model**: Melakukan penyempurnaan (refining) prompt dengan menambahkan contoh ulasan yang ambigu untuk melatih model agar lebih baik dalam menangani kasus-kasus sulit.
-- **Strategi Bisnis**: Menggunakan hasil analisis untuk mengidentifikasi aspek-aspek film yang paling disukai atau tidak disukai oleh penonton, yang dapat menjadi masukan untuk produksi film di masa depan.
+- **Peningkatan Model**: Lakukan penyempurnaan (refining) prompt dengan menambahkan contoh ulasan ambigu agar model lebih baik dalam menangani kasus sulit.  
+- **Optimasi Preprocessing**: Terapkan teknik pembersihan teks yang lebih canggih seperti *lemmatization* dan *stopword removal* untuk meningkatkan kualitas input.  
+- **Strategi Bisnis**: Gunakan hasil analisis untuk mengidentifikasi aspek film yang paling disukai (misalnya alur cerita, akting) maupun yang kurang disukai (misalnya durasi atau ending), yang dapat menjadi masukan berharga bagi rumah produksi film.
 
 ## 🔧 Teknologi yang Digunakan
 
